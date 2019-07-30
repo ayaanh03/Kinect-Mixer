@@ -19,5 +19,3 @@ Ex. "pip install pygame" or "pip install <module name as listed above>"
 
 Skipping to different parts:
 One can skip to midi or classic mode by changing self.gm variable to "mix" or "classic" respectively.
-
-Video URL:
